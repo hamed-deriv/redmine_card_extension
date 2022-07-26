@@ -1,0 +1,13 @@
+{
+  "name": "Redmine Card Extension",
+  "version": "0.1.0",
+  "manifest_version": 2,
+  "description": "Redmine Card Extension for Connecting Pull Requests to Cards in Redmine",
+  "content_scripts": [
+    {
+      "matches": ["https://github.com/*/pull/*"],
+      "js": ["scripts.js"],
+      "css": ["styles.css"]
+    }
+  ]
+}

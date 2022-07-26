@@ -1,0 +1,18 @@
+#redmine_card_button {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji";
+    word-wrap: break-word;
+    box-sizing: border-box;
+    display: inline-block;
+    padding: 5px 12px;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 20px;
+    text-align: center;
+    white-space: nowrap;
+    border-radius: 2em;
+    border: 1px solid transparent;
+    color: white;
+    background-color: red;
+    margin-right: 8px;
+    cursor: pointer;
+}
