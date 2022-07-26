@@ -15,4 +15,8 @@
     background-color: red;
     margin-right: 8px;
     cursor: pointer;
+    }
+
+#redmine_card_button:hover {
+    background-color: darkred;
 }
