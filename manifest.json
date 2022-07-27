@@ -2,7 +2,7 @@
   "name": "Redmine Card Extension",
   "version": "0.1.0",
   "manifest_version": 2,
-  "description": "Redmine Card Extension for Connecting Pull Requests to Cards in Redmine",
+  "description": "This extension is for connecting Github pull requests to Redmine cards.",
   "icons": {
     "16": "assets/icon-16.png",
     "32": "assets/icon-32.png",
